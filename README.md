@@ -1,1 +1,3 @@
 # Day3-student-record-manager
+This project is a Python-based Student Record Manager developed as part of the ProSensia Internship (Day 3 Task). 
+It allows adding student records as immutable (Name, Grade) tuples, ensures uniqueness using sets, and provides features like viewing all students, finding the top student, filtering by grade, and generating a class report with average scores and above-average students. The program is fully menu-driven, modular, and handles edge cases such as duplicate names, invalid inputs, and out-of-range grades, making it a practical implementation of tuples, sets, functions, and loops in Python.
